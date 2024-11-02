@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false" >geolab5</string>
+    <string name="account_text">"Create an Account"</string>
+    <string name="username_hint">"Username"</string>
+    <string name="password_hint">"Password"</string>
+    <string name="create_button_text">"Create Account"</string>
+    <string name="name_OfTheItem">"Wrist watch"</string>
+    <string name="order_button_text">"Order Now"</string>
+</resources>

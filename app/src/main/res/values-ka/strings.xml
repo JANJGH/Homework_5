@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_text">"შექმენით ანგარიში"</string>
+    <string name="username_hint">"სახელი"</string>
+    <string name="password_hint">"პაროლი"</string>
+    <string name="create_button_text">"ანგარიშის შექმნა"</string>
+    <string name="name_OfTheItem">"მაჯის საათი"</string>
+    <string name="order_button_text">"შეუკვეთე ახლავე"</string>
+
+</resources>
